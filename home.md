@@ -1,18 +1,20 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
-# Header
-> 测试
-> 哈哈
-
-
-
 # 标题一
+
 ## 标题二
+
 ### 标题三
+
 #### 标题四
+
 ##### 标题五
+
 ###### 标题六
+
+---
+
 
  **加粗文字** 
 
@@ -36,16 +38,27 @@
 - [ ]  待完成
 - [x]  已完成
 
-[这是一个链接文字](http://www.baidu.com)
+
 ---
+
+[这是一个链接文字](http://www.baidu.com)
+
+---
+
 图片测试
 ![](https://www.baidu.com/img/dong_41c10f9ee0a17d664b76404d3b276d09.gif)
+
 ---
+
 `alert('代码行');`
 ```
  <code> 代码段</code>
 ```
-----
+
+
+---
+
+
 列| 列 | 列 
 ---| --- | --- 
 行| 行 | 行 
