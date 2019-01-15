@@ -77,13 +77,9 @@ $\sqrt{3x-1}+(1+x)^2$
 ---
 甘特图
 ```
-graph TD
-dateFormat YYYY-MM-DD
-section S1
-T1: 2014-01-01, 9d
-section S2
-T2: 2014-01-11, 9dsection S3
-T3: 2014-01-02, 9d
+sequenceDiagram
+A->>B: 你好吗?
+B->>A: 我很好3!
 ```
 
 
