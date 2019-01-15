@@ -83,8 +83,8 @@ B->>A: 我很好3!
 
 ---
 甘特图
-```
-gantt
+```mermaid
+graph TD
 dateFormat YYYY-MM-DD
 section S1
 T1: 2014-01-01, 9d
