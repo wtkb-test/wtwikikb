@@ -76,7 +76,7 @@ $\sqrt{3x-1}+(1+x)^2$
 
 ---
 甘特图
-```mermaid
+```
 graph TD
 dateFormat YYYY-MM-DD
 section S1
