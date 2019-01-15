@@ -85,10 +85,9 @@ B->>A: 我很好3!
 甘特图
 ```mermaid
 graph TD
-dateFormat YYYY-MM-DD
-section S1
-T1: 2014-01-01, 9d
-section S2
-T2: 2014-01-11, 9dsection S3
-T3: 2014-01-02, 9d
+		A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[Car]
 ```
