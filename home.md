@@ -85,7 +85,7 @@ B->>A: 我很好3!
 甘特图
 ```mermaid
 graph TD
-		A[Christmas] -->|Get money| B(Go shopping)
+    A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
     C -->|One| D[Laptop]
     C -->|Two| E[iPhone]
